@@ -1,11 +1,14 @@
 # 🌾 KhetSathi — Modern Farm Management Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-khet--sathiii.lovable.app-brightgreen?logo=googlechrome&logoColor=white)](https://khet-sathiii.lovable.app)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.2-61dafb?logo=react)](https://react.dev/)
 [![TanStack Start](https://img.shields.io/badge/TanStack_Start-Fullstack-ff4154?logo=react-query)](https://tanstack.com/start)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.2-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL_%2B_RLS-3ecf8e?logo=supabase)](https://supabase.com/)
 [![Vitest](https://img.shields.io/badge/Vitest-Tested-729b1b?logo=vitest)](https://vitest.dev/)
+
+🌐 **Live Application:** [https://khet-sathiii.lovable.app](https://khet-sathiii.lovable.app)
 
 > **KhetSathi** is an all-in-one digital field notebook and agricultural management system designed to empower farmers and agricultural managers. Manage land holdings, monitor crop lifecycles, track farm inputs and inventory, book machinery and services, and consult crop advisory guides in one clean, responsive dashboard.
 
